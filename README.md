@@ -324,3 +324,4 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 ---
 
  <br><br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/salmanytofficial/XLICON-V3-MD)
